@@ -4,6 +4,9 @@ public class Test {
 	System.out.println("testing");
 
 	}
+	public void m2(){
+		System.out.println("Test data");
+	}
 public static void main (String[] args){
 	Test t = new Test();
 }
